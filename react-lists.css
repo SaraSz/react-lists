@@ -1,7 +1,34 @@
 body {
     background-color: lightpink;
+    display: block; 
 }
 
-#inputName, #inputSpecies {
-    
+input {
+    font-size: 14px;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+    outline-color: transparent;
 }
+
+button {
+  font-size: 15px;
+  margin-top: 15px;
+  margin-left: 5px;
+  color: black;
+  background-color: white;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+h3 {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+
+
